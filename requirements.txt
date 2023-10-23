@@ -1,4 +1,5 @@
 flask
 spacy
-en-core-web-sm
+python -m spacy download en_core_web_sm
+pip install --upgrade pip
 
