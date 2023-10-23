@@ -1,6 +1,4 @@
-flask==3.0.0
-spacy==3.7.2
-spacy-legacy==3.0.12
-spacy-loggers==1.0.5
-en-core-web-sm==3.7.0
+flask
+spacy
+en-core-web-sm
 
